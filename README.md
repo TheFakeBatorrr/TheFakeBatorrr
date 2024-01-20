@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheFakeBatorrr
-- 👀 I’m interested in videogames, tech, pc and pc building, musics, streaming on twitch.tv, basketball, volleyball, tennis and many other things.
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript and I'm going to learn Python, C++,C# and many other languages I hope.
+- 👀 I’m interested in video games, tech, pc and pc building, music, streaming on Twitch.tv, basketball, volleyball, tennis, and many other things.
+- 🌱 I learned HTML, CSS, and Python before right now my main focus is no JS and C#.
 
 
 <!---
