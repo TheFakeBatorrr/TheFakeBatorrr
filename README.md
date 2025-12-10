@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @TheFakeBatorrr
-- 👀 I’m interested in video games, tech, pc and pc building, music, streaming on Twitch.tv, basketball, volleyball, tennis, and many other things.
-- 🌱 I learned HTML, CSS, and Python before right now my main focus is no JS and C#.
+- 👋 Hi, I’m @Neglekt / @TheFakeBatorrr / @Brave -  I have many aliases
+- 👀 Main focus on cyber sec and Web Dev, firstly front-end
+- 🌱 I learned HTML, CSS, JS, React, React native, Vue, PHP, Laravel, Python, C#.
+- Proud GTX 1060 user
+- Not average your storage consumer
+- Titanfall 2 veteran
 
 
 <!---
