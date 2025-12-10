@@ -2,7 +2,7 @@
 - 👀 Main focus on cyber sec and Web Dev, firstly front-end
 - 🌱 I learned HTML, CSS, JS, React, React native, Vue, PHP, Laravel, Python, C#.
 - Proud GTX 1060 user
-- Not average your storage consumer
+- Not your average storage consumer
 - Titanfall 2 veteran
 
 
